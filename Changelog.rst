@@ -1,5 +1,7 @@
 Changelog
 =========
+vince dillon
+hustlersambitionz777@gmail.com
 
 Under development
 ++++++++++++++++++++++++++
